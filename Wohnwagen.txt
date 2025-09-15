@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Wohnwagenvermietung Österreich</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        .title-image {
+            width: 100%;
+            height: auto;
+        }
+        section {
+            padding: 40px 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+
+<header>
+    <h1>Wohnwagenvermietung Österreich</h1>
+</header>
+
+
+<nav>
+    <a href="index.html">Startseite</a>
+    <a href="wohnwagen.html">Wohnwagen</a>
+    <a href="kontakt.html">Kontakt</a>
+    <a href="impressum.html">Impressum</a>
+</nav>
+
+
+<!-- Titelbild mit Wohnwagen vor einem See und Berg -->
+<img src="titelbild.jpg" alt="Wohnwagen vor See und Berg" class="title-image" />
+
+
+<section>
+    <h2>Willkommen bei unserer Wohnwagenvermietung!</h2>
+    <p>Genießen Sie unvergessliche Urlaube in der wunderschönen österreichischen Natur. Mieten Sie Ihren Wohnwagen bei uns und erleben Sie Freiheit auf Rädern.</p>
+</section>
+
+
+<footer>
+    &copy; 2025 Wohnwagenvermietung Österreich
+</footer>
+
+
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Unser Wohnwagen</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #4CAF50; padding: 20px; color: white; text-align: center; }
+        nav { display: flex; justify-content: center; background-color: #333; }
+        nav a { color: white; padding: 14px 20px; text-decoration: none; }
+        nav a:hover { background-color: #575757; }
+        section { padding: 20px; }
+        footer { background-color: #333; color: white; text-align: center; padding: 15px; }
+        img { max-width: 100%; height: auto; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Unser Wohnwagen</h1>
+</header>
+<nav>
+    <a href="index.html">Startseite</a>
+    <a href="wohnwagen.html">Wohnwagen</a>
+    <a href="kontakt.html">Kontakt</a>
+    <a href="impressum.html">Impressum</a>
+</nav>
+<section>
+    <h2>Der perfekte Wohnwagen für Ihren Urlaub</h2>
+    <img src="wohnwagen.jpg" alt="Geräumiger Wohnwagen">
+    <p>Unser Wohnwagen ist komfortabel ausgestattet und bietet alles, was Sie für einen entspannten Urlaub brauchen. Modern, sicher und ideal für Familien oder Paare.</p>
+</section>
+<footer>
+    &copy; 2025 Wohnwagenvermietung Österreich
+</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Kontakt</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
